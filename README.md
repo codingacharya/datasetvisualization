@@ -1,4 +1,4 @@
-step 1: git clone 
+step 1: git clone https://github.com/codingacharya/datasetvisualization.git
 
 step 2: cd datasetvisualization
 
